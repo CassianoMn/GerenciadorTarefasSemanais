@@ -29,13 +29,13 @@ Para compilar e executar o projeto, você precisará ter o **JDK (Java Developme
 2.  **Compilação**: Abra um terminal ou prompt de comando na pasta **raiz** do projeto (a pasta que contém a subpasta `gerenciadortarefas`) e execute o seguinte comando para compilar todos os arquivos:
 
     ```bash
-    javac gerenciadortarefas/*.java
+    javac gerenciadortarefas_/*.java
     ```
 
 3.  **Execução**: Após a compilação ser concluída sem erros, execute a aplicação com o comando abaixo, que chama a classe principal `AplicacaoGUI`:
 
     ```bash
-    java gerenciadortarefas.AplicacaoGUI
+    java gerenciadortarefas_.AplicacaoGUI
     ```
 
 A janela do "Gerenciador de Tarefas Semanal" deverá aparecer.
